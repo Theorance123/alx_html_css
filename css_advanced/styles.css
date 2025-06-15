@@ -1,0 +1,30 @@
+/* Header Styling */
+header {
+    background-color: #cac6c6; 
+    height: 29.46px;
+    display: flex;
+    align-items: center;
+    padding: 0 20px; 
+}
+
+header h1 {
+    font-size: 24px;
+    color: #483f3f; 
+}
+
+/* First Section Styling */
+.first-section {
+    background-color: lab(62.21% -61.54 58 / 0.382)
+    width: 100%; 
+    padding: 40px;
+}
+
+.first-section h2 {
+    font-size: 22px; 
+    color: #c14d4d; 
+}
+
+.first-section p {
+    font-size: 16px; 
+    color: #666666; 
+}
