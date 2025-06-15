@@ -1,6 +1,10 @@
 .body {
     display: flex;
     flex-direction: column;
+    background-color: #f0f0f0; 
+}
+h1 {
+    color: #2c3e50; /* Dark blue color for headings */
 }
 
 main {
